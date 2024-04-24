@@ -23,7 +23,7 @@ class Player:
         self.current_map: Map = current_map
         self.position = current_map.find_player()
         self.name: str = name
-        self.balance = 999999999999#10000
+        self.balance = 10000 #10000
         self.base_damage = 5
         self.crit_chance = 0.1
         self.dodge_chance = 0.1

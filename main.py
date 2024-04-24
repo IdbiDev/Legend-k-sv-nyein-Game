@@ -87,15 +87,13 @@ A pályán találhatóak polgárok (⌂). A polgárokkal tudsz kereskedni. Vehet
 A hátizsákodban található tárgyakat az ENTER lenyomásával tudod használni.
 
 """)
-if not debug:
-    name = input("Játékosnév: ")
+name = input("Játékosnév: ")
 
 clear()
 
 player = Player(name, map_manager.maps[0])
-player.armor_slot = inventory.items["Éji Árnyak Páncélja"]
-player.inventory.add_item(inventory.items["Fény Kardja"])
-player.inventory.add_item(inventory.items["Csillagfényes Dárda"])
+player.armor_slot = inventory.items["Újonc Láncing"]
+player.inventory.add_item(inventory.items["Acél Kard"])
 clear()
 
 starter_npc_name = MessageType.STARTER_NPC_NAMES.value.get_message()
