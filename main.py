@@ -48,7 +48,7 @@ from mob import Witch
 # print(count)
 # exit()
 
-
+os.system("chcp 65001")
 def move_cursor_to_top_left():
     sys.stdout.write("\033[H")  # Move cursor to top-left corner
     sys.stdout.flush()
