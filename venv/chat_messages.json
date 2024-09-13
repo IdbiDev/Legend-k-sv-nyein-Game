@@ -1,0 +1,242 @@
+{
+  "messages": [
+    {
+      "name": "welcome",
+      "messages": [
+        "Üdvözöllek %player% a %map%! Vajon mi hozott ide téged?",
+        "Üdvözöllek %player%! Itt vagy a %map%. Készen állsz az izgalmas kalandokra?",
+        "Üdvözöllek %player%! Ebben a titokzatos Tornácon rengeteg veszély leselkedik. Vigyázz magadra!"
+      ]
+    },
+    {
+      "name": "player_eat",
+      "messages": [
+        "%player% jóízűen elfogyasztotta az ételét.",
+        "%player% finom falatokat evett."
+      ]
+    },
+    {
+      "name": "villager_out_of_stock",
+      "messages": [
+        "%npc%: Sajnos kifogytam az árukból..",
+        "%npc%: Ihh, rosszkor jöttél, még nem töltöttem fel a polcokat."
+      ]
+    },
+    {
+      "name": "mob_dodge",
+      "messages": [
+        "%mob% könnyedén kikerüli %player% ütését! Láthatóan megkeményült a védelem.",
+        "%mob% egy hajszálnyival húzódik ki az ütés elől, mintha megérezte volna!"
+      ]
+    },
+    {
+      "name": "player_miss",
+      "messages": [
+        "%player% elhibázta az ütését. Biztos rosszul mérted meg a távolságot.",
+        "%player% támadása nem találja el a célpontot. Újra próbálkozz!"
+      ]
+    },
+    {
+      "name": "player_crit",
+      "messages": [
+        "%player% kritikusan sújt %mob%-ra. A csapás hatalmas sebet ejt rajta!",
+        "%player% ereje megsokszorozódik, és hatalmas csapást mér %mob%-ra!"
+      ]
+    },
+    {
+      "name": "mob_dead",
+      "messages": [
+        "%player% az utolsó csapást mérte %mob%-ra. %mob% elesett a harcban...",
+        "%mob% végre földre kerül! Az egész barlang megremegett ettől a hatalmas ütéstől."
+      ]
+    },
+    {
+      "name": "player_dodge",
+      "messages": [
+        "%mob% támadása kikerülhetetlennek tűnt, de %player% hihetetlen gyorsasággal kitért előle.",
+        "%player% az utolsó pillanatban kitér %mob% támadása elől, mintha megérezte volna a veszélyt."
+      ]
+    },
+    {
+      "name": "mob_miss",
+      "messages": [
+        "%mob% meglepően gyengén céloz. Nem találja el %player%-t.",
+        "%mob% egy pillanatra megbénul, amikor meglátja %player%-t, és elhibázza az ütést."
+      ]
+    },
+    {
+      "name": "mob_crit",
+      "messages": [
+        "%mob% hatalmas csapást mér %player%-ra. Nagyon fájdalmasnak tűnik!",
+        "%mob% eléri %player%-t egy kritikus sebzéssel. Meg kell védened magadat!"
+      ]
+    },
+    {
+      "name": "player_dead",
+      "messages": [
+        "%player% végső csapást kapott %mob%-tól, és földet ér. Az erőd teljes csendbe borul.",
+        "%player% súlyos sebet kapott, és azonnal összeesik. A harc véget ért..."
+      ]
+    },
+    {
+      "name": "player_hit",
+      "messages": [
+        "%player% lendületből nekivág %mob%-nak. Egy hatalmas csapással éri el.",
+        "%player% pontosan céloz %mob%-ra, és súlyos sebet ejt rajta."
+      ]
+    },
+    {
+      "name": "mob_hit",
+      "messages": [
+        "%mob% egy hatalmas csapással éri el %player%-t. Fájdalmasnak tűnik...",
+        "%mob% pontosan célzott, és súlyosan megsértette %player%-t."
+      ]
+    },
+    {
+      "name": "starter_npcs",
+      "messages": [
+        "Ilona néni",
+        "Rozália néni",
+        "Eszter néni",
+        "László bácsi",
+        "Gábor bácsi",
+        "Béla bá"
+      ]
+    },
+    {
+      "name": "village_names",
+      "messages": [
+        "Borókafalu",
+        "Csipkerózsa",
+        "Gyöngyvölgy",
+        "Árnyasvár",
+        "Zöldmező",
+        "Szentmiklósvár",
+        "Rozmaringfalu",
+        "Bársonyvölgy",
+        "Aranyhalom",
+        "Csobbanókút",
+        "Kékliliom",
+        "Zsiványváros",
+        "Homokszikla",
+        "Suttogóerdő",
+        "Cseresznyekert"
+      ]
+    },
+    {
+      "name": "dungeon_names",
+      "messages": [
+        "Sötétségbarlang",
+        "Mérgező Menedék",
+        "Árnyak Labirintusa",
+        "Titokzatos Tornác",
+        "Sárkánylejáró",
+        "Mélybányája Az Ördögnek",
+        "Zsiványok Része",
+        "Kísértetkastély",
+        "Varázstér",
+        "Átokbarlang",
+        "Kőszörnyrakás",
+        "Elfek Elhagyott Helye",
+        "Sötét Lámpa Tornya",
+        "Örök Zajú Omladozás",
+        "Elforgatott Folyosók"
+      ]
+    },
+    {
+      "name": "spawn_names",
+      "messages": [
+        "Kezdetek Kertje",
+        "Nyugalom Völgye",
+        "Békés Birodalom",
+        "Kalandok Kapuja",
+        "Kézdivásár",
+        "Barátságos Birtok",
+        "Varázslatos Völgy",
+        "Nyugalom Nyújtása",
+        "Boldogság Birodalma",
+        "Bájos Bástya"
+      ]
+    },
+    {
+      "name": "villager_names",
+      "messages": [
+        "Kezdetek Kertje",
+        "Nyugalom Völgye",
+        "Békés Birodalom",
+        "Kalandok Kapuja",
+        "Kézdivásár",
+        "Barátságos Birtok",
+        "Varázslatos Völgy",
+        "Nyugalom Nyújtása",
+        "Boldogság Birodalma",
+        "Bájos Bástya"
+      ]
+    },
+    {
+      "name": "blacksmith_names",
+      "messages": [
+        "Kovács Gergely",
+        "Vaskezű Márton",
+        "Hegyeshammer Zoltán"
+      ]
+    },
+    {
+      "name": "wizard_names",
+      "messages": [
+        "Varázsló István",
+        "Varázslatvándor Mihály",
+        "Varázskezű Ágnes"
+      ]
+    },
+    {
+      "name": "hunters_names",
+      "messages": [
+        "Vadász Béla",
+        "Nyílvető Réka",
+        "Vadászparti Péter"
+      ]
+    },
+    {
+      "name": "farmer_names",
+      "messages": [
+        "Földműves János",
+        "Veteményes Erzsébet",
+        "Szántó László"
+      ]
+    },
+    {
+      "name": "armorer_names",
+      "messages": [
+        "Vasveretes Anna",
+        "Páncélos Ferenc",
+        "Páncélkereskedő Árpád"
+      ]
+    },
+
+    {
+      "name": "shop_headers",
+      "messages": [
+        "%npc%: Üdvözöllek a boltomban %player%! Nézz bátran körbe a kínálatba!",
+        "%npc%: Hello %player%! Mi szél hozott ide?",
+        "%npc% Szia %player%! Gyere csak, most töltöttem fel a kínálatom!"
+      ]
+    },
+    {
+      "name": "shop_not_enough_money",
+      "messages": [
+        "%player%: Hmm.. erre nincs pénzem!",
+        "%player%: Úgy tűnik az erszényem üres...",
+        "%npc%: Mi az uram? Nincs elég pénze?"
+      ]
+    },
+    {
+      "name": "shop_bought",
+      "messages": [
+        "Megvetted a(z) %item% tárgyat!",
+        "Az %item% mostmár a te tulajdonod!",
+        "%item% tárgyat megvárásoltad!"
+      ]
+    }
+  ]
+}
